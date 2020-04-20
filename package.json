@@ -10,7 +10,7 @@
 		"vscode": "^1.44.0"
 	},
 	"categories": [
-		"Markdown"
+		"Formatters"
 	],
 	"activationEvents": [
 		"onCommand:remove-markdown-links.removeLinks"
