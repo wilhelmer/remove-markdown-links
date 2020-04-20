@@ -4,7 +4,8 @@
 	"description": "Removes Markdown links from selected text.",
 	"version": "0.0.1",
 	"publisher": "wilhelmer",
-	"repository": "",
+	"repository": "https://github.com/wilhelmer/remove-markdown-links.git",
+	"icon": "icon.png",
 	"engines": {
 		"vscode": "^1.44.0"
 	},
