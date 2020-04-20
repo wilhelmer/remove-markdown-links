@@ -1,7 +1,5 @@
 # remove-markdown-links
 
-Removes Markdown links from selected text.
-
 A [Visual Studio Code](https://code.visualstudio.com/) extension to remove Markdown links from selected text.
 
 ## Installation

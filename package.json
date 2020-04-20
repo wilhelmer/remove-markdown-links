@@ -1,7 +1,7 @@
 {
 	"name": "remove-markdown-links",
 	"displayName": "Remove Markdown Links",
-	"description": "A Visual Studio Code extension to remove Markdown links from selected text.",
+	"description": "Removes Markdown links from selected text.",
 	"version": "0.0.1",
 	"publisher": "wilhelmer",
 	"repository": "",
