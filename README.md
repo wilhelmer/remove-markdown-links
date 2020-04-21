@@ -2,9 +2,11 @@
 
 A [Visual Studio Code](https://code.visualstudio.com/) extension to remove Markdown links from selected text.
 
+Only removes hyperlinks, not image links.
+
 ## Installation
 
-Search for `remove markdown` in the _Extensions_ section.
+Search for `remove-markdown-links` in the _Extensions_ section.
 
 ## Usage
 
