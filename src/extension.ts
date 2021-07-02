@@ -8,7 +8,7 @@ export function activate(context: vscode.ExtensionContext) {
         }
         var selection = editor.selection;
         var text = editor.document.getText(selection);
-        text = text.replace(/([^!])\[([^\[]+)\](\(.*\))/gm, "$1$2");
+        text = text.replace(/([^!])\[([^\[]+)\](\(.*?\))/gm, "$1$2");
         editor.edit(editBuilder => {
             editBuilder.replace(selection, text);
         });
