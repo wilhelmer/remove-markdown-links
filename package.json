@@ -2,7 +2,7 @@
 	"name": "remove-markdown-links",
 	"displayName": "Remove Markdown Links",
 	"description": "Removes Markdown links from selected text.",
-	"version": "0.0.6",
+	"version": "0.0.7",
 	"publisher": "wilhelmer",
 	"repository": "https://github.com/wilhelmer/remove-markdown-links.git",
 	"icon": "icon.png",
