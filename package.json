@@ -6,7 +6,7 @@
     "type": "git",
     "url": "https://github.com/wilhelmer/remove-markdown-links"
   },
-  "version": "0.0.8",
+  "version": "0.0.9",
   "publisher": "wilhelmer",
   "icon": "icon.png",
   "engines": {
@@ -23,7 +23,7 @@
     "commands": [
       {
         "command": "remove-markdown-links.removeLinks",
-        "title": "Remove Markdown links 2"
+        "title": "Remove Markdown links"
       }
     ]
   },
